@@ -1,3 +1,28 @@
 #lab-footer {
 display:none;
 }
+.crop {
+  display: table; 
+}
+
+.img1 {
+   position: relative;
+   left: 10%;
+   background-image:url(../exp6/images/6_1.png);
+   width: 395px;
+   height:245px;
+   display:table-cell;
+   background-position:0 0;
+}
+
+.img2 {
+   position: relative;
+   left: 10%;
+   background-image:url(../exp6/images/6_1.png);
+   width: 395px;
+   height:245px;
+   top: 30px;
+   display: table-cell;
+   background-position:400px 226px;
+}
+
