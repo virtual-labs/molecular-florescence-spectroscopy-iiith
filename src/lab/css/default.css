@@ -193,7 +193,7 @@ button {  width: auto; overflow: visible; }
 */
 
 /* for image replacement */
-.ir { display:block; text-indent:-999em; overflow:hidden; 
+.ir { display:block; text-indent:-999em; overflow:auto; 
         background-repeat: no-repeat; }
 
 /* Hide for both screenreaders and browsers
